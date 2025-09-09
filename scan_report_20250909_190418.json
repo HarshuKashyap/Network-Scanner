@@ -1,0 +1,39 @@
+{
+    "192.168.1.1": {
+        "state": "up",
+        "protocols": {
+            "tcp": {
+                "21": {
+                    "state": "open",
+                    "reason": "syn-ack",
+                    "name": "ftp",
+                    "product": "",
+                    "version": "",
+                    "extrainfo": "",
+                    "conf": "3",
+                    "cpe": ""
+                },
+                "554": {
+                    "state": "open",
+                    "reason": "syn-ack",
+                    "name": "rtsp",
+                    "product": "",
+                    "version": "",
+                    "extrainfo": "",
+                    "conf": "3",
+                    "cpe": ""
+                },
+                "1723": {
+                    "state": "open",
+                    "reason": "syn-ack",
+                    "name": "pptp",
+                    "product": "",
+                    "version": "",
+                    "extrainfo": "",
+                    "conf": "3",
+                    "cpe": ""
+                }
+            }
+        }
+    }
+}
